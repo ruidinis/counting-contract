@@ -1,0 +1,1 @@
+/home/rdinis/Blockchain/cw-academy/counting-contract/target/debug/libcounting_contract.so: /home/rdinis/Blockchain/cw-academy/counting-contract/src/contract.rs /home/rdinis/Blockchain/cw-academy/counting-contract/src/lib.rs /home/rdinis/Blockchain/cw-academy/counting-contract/src/msg.rs

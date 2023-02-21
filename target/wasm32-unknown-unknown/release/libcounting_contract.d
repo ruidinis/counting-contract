@@ -1,0 +1,1 @@
+/home/rdinis/Blockchain/cw-academy/counting-contract/target/wasm32-unknown-unknown/release/libcounting_contract.rlib: /home/rdinis/Blockchain/cw-academy/counting-contract/src/contract.rs /home/rdinis/Blockchain/cw-academy/counting-contract/src/lib.rs /home/rdinis/Blockchain/cw-academy/counting-contract/src/msg.rs

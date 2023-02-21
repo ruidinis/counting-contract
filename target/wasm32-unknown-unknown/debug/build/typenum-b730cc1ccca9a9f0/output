@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/rdinis/Blockchain/cw-academy/counting-contract/target/wasm32-unknown-unknown/debug/build/typenum-b730cc1ccca9a9f0/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/rdinis/Blockchain/cw-academy/counting-contract/target/wasm32-unknown-unknown/debug/build/typenum-b730cc1ccca9a9f0/out/op.rs
